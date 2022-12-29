@@ -4,7 +4,7 @@
 
 ### :man_technologist: About Me : 
 
-##### I'm JavaScript Developer from Ukraine
+##### I'm Front-End Developer from Ukraine
 
 - :coffee: Turn coffee into code
 - :books: Learning JavaScript and other frameworks, such as React,Redux and NodeJS
