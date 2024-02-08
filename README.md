@@ -61,3 +61,4 @@
 ## My code samples:
 
 - #### [Fully customized project setup, with correct interaction of multiple Providers, and implemented private and public routing](https://gist.github.com/pticasolovey20/8d36544884fe157582e28d5ad29af9b7)
+- #### [Landing Page structure developed on Next JS using Tailwind CSS and TypeScript](https://gist.github.com/pticasolovey20/5a1b48e3147900895d14a96c03f7a2ca)
