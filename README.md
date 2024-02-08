@@ -9,7 +9,7 @@
 #### With a robust two-year track record in the commercial sector, I bring extensive experience as a Front End Developer with a solid proficiency in JavaScript and TypeScript. My specialization lies in developing applications using React and Next.js. 
 #### Known for my rapid learning abilities and client-centric approach, I excel in crafting efficient, scalable, and user-friendly solutions that address real-world challenges.
 
-#### [Gmail](mailto:dy.solovyov.work@gmail.com) | [LinkedIn](https://obsgroup.ai/) | [Telegram](https://obsgroup.ai/)
+#### [Gmail](mailto:dy.solovyov.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pticasolovey/) | [Telegram](https://t.me/pticasolovey20)
 
 
 
@@ -52,7 +52,7 @@
 
 #### [Sparrow Finance](https://www.joinsparrow.co/) — a secure platform and community for women to build and share long-term wealth using Bitcoin. It was created to ultimately close the gender investment gap.
 
-#### [Documenso]() — the web application focused on facilitating online document signing, enabling users to seamlessly exchange documents, request signatures, and track their status.
+#### [Documenso](https://github.com/pticasolovey20) — the web application focused on facilitating online document signing, enabling users to seamlessly exchange documents, request signatures, and track their status.
 
 #### [OPM Social](https://obsgroup.ai/) — platform leveraging artificial intelligence to connect business owners and professionals based on shared interests and needs, fostering the exchange of experiences and resources.
 
