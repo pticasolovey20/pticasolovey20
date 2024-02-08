@@ -11,7 +11,7 @@
 
 #### [Gmail](mailto:dy.solovyov.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pticasolovey/) | [Telegram](https://t.me/pticasolovey20)
 
-
+<a href="mailto:dy.solovyov.work@gmail.com" target="_blank">Gmail</a> | <a href="https://www.linkedin.com/in/pticasolovey/" target="_blank">LinkedIn</a> | <a href="https://t.me/pticasolovey20" target="_blank">Telegram</a>
 
 ## Technology I use 🛠️ 
 
