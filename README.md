@@ -3,10 +3,14 @@
 ![Banner](https://media.licdn.com/dms/image/C4D1BAQEIIyKMICBvWQ/company-background_10000/0/1589109537088/quanticoders_cover?e=2147483647&v=beta&t=_u2VYG5yBazkMOXCr3ejOPrBzIMIyHtpeKsr1nQFOsw)
 
 ## Hey there, I'm a Middle Front End Developer originating from Ukraine 👋
+
  
 
 ##### With a robust two-year track record in the commercial sector, I bring extensive experience as a Front End Developer with a solid proficiency in JavaScript and TypeScript. My specialization lies in developing applications using React and Next.js. 
 ##### Known for my rapid learning abilities and client-centric approach, I excel in crafting efficient, scalable, and user-friendly solutions that address real-world challenges.
+
+#### [Gmail](mailto:dy.solovyov.work@gmail.com) | [LinkedIn](https://obsgroup.ai/) | [Telegram](https://obsgroup.ai/)
+
 
 
 ## Technology I use 🛠️ 
@@ -43,6 +47,7 @@
 </div>
 
 
+
 ## My latest projects
 
 [Sparrow Finance](https://www.joinsparrow.co/) — a secure platform and community for women to build and share long-term wealth (велф) using Bitcoin. It was created to ultimately close the gender investment gap.
@@ -50,6 +55,8 @@
 [Documenso]() — the web application focused on facilitating online document signing, enabling users to seamlessly exchange documents, request signatures, and track their status.
 
 [OPM Social](https://obsgroup.ai/) — platform leveraging artificial intelligence to connect business owners and professionals based on shared interests and needs, fostering the exchange of experiences and resources.
+
+
 
 ## My code samples:
 
