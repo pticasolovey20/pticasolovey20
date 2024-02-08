@@ -50,7 +50,7 @@
 
 ## My latest projects
 
-[Sparrow Finance](https://www.joinsparrow.co/) — a secure platform and community for women to build and share long-term wealth (велф) using Bitcoin. It was created to ultimately close the gender investment gap.
+[Sparrow Finance](https://www.joinsparrow.co/) — a secure platform and community for women to build and share long-term wealth using Bitcoin. It was created to ultimately close the gender investment gap.
 
 [Documenso]() — the web application focused on facilitating online document signing, enabling users to seamlessly exchange documents, request signatures, and track their status.
 
