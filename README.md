@@ -1,8 +1,8 @@
-# Welcome ![](https://komarev.com/ghpvc/?username=pticasolovey20&color=blueviolet)
-
 ![Banner](https://media.licdn.com/dms/image/C4D1BAQEIIyKMICBvWQ/company-background_10000/0/1589109537088/quanticoders_cover?e=2147483647&v=beta&t=_u2VYG5yBazkMOXCr3ejOPrBzIMIyHtpeKsr1nQFOsw)
 
-## Hey there, I'm a Middle Front End Developer originating from Ukraine 👋
+
+
+## Hey there, I'm a Middle Front End Developer originating from Ukraine 👋   ![](https://komarev.com/ghpvc/?username=pticasolovey20&color=blueviolet)
 
  
 
