@@ -45,6 +45,7 @@
 <ul>
   <li>Bootstrap</li>
   <li>Sass</li>
+  <li>Framer Motion</li>
   <li>Tailwind CSS</li>
   <li>Material UI</li>
   <li>ShadCN UI</li>
